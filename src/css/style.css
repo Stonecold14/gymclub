@@ -1,0 +1,27 @@
+/*ToDo*/
+
+body {
+    align-items: center;
+    background: rgba(215, 223, 250, 0.3);
+}
+
+.hero-screen {
+    width: 320px;
+    height: 408px;
+    /*background-image: url("../img/service-hero.webp");*/
+    background: brown;
+}
+
+
+.wrapper {
+
+    /*background: aqua;*/
+
+}
+
+
+
+/*----------------*/
+/*Burger menu*/
+
+/*-------------------*/
